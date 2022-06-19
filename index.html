@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, shrink-to-fit=no"
+    />
+    <meta
+      name="description"
+      content="Recruitment task page for Gravity Global."
+    />
+    <meta name="robots" content="noindex, nofollow" />
+    <meta name="language" content="English" />
+    <meta name="author" content="Anna Żurek" />
+    <title>Anna Żurek - Recruitment task</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="dist/css/style.min.css" />
+  </head>
+  <body>
+    <!-- If it's supposed to be part of other web page in can not be "main" as contener as there can be only one such element on the web page. Seem it's  Microfrontend.-->
+    <div class="main-wrapper">
+      <!-- main section -->
+      <section class="section-item">
+        <div class="section-item__img">
+          <img
+            src="./dist/img/sean-o-KMn4VEeEPR8-unsplash_1_s6zmfh_c_scale,w_784.jpg"
+            alt="Photo of the beach at sunset. Waves crashing on a sandy beach."
+            class="section-item__img-jpg"
+          />
+        </div>
+        <div class="section-item__content">
+          <h3>Lorem Ipsum</h3>
+          <p>
+            Infinitely scalable, feature-rich and cloud-native data management
+            and protection for modern and legacy infrastructures and SaaS
+            platforms, managed via a single app with no hardware required.
+          </p>
+          <button class="section-item__content-btn">Button</button>
+        </div>
+      </section>
+
+      <!-- pop-up section -->
+      <section class="modal-alert">
+        <div class="modal-alert__wrapper">
+          <div class="popup"></div>
+          <div class="modal-alert__content">
+            <h3>Alert!</h3>
+            <p>
+              You have clicked
+              <span class="modal-alert__clicks">X times</span> to related
+              button.
+            </p>
+            <button class="modal-alert__btn" aria-label="Close the pop-up.">
+              +
+            </button>
+          </div>
+        </div>
+      </section>
+    </div>
+    <!-- <script src="/dist/js/main.min.js"></script> -->
+    <script src="./src/js/main.js"></script>
+  </body>
+</html>
+
+<!-- Using aria: 
+https://w3c.github.io/using-aria/ -->
