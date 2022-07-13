@@ -1,5 +1,5 @@
 # GG_task
--------------------------------------------
+
 Created according to description attached to the task (Gulp, HMTL, SCSS, JavaScript, localStorage, RWD, WCAG)
 
 -------------------------------------------
