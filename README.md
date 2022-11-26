@@ -5,7 +5,7 @@ View it here: https://anna-z-krk.github.io/GG_task/
 AIM:
 - creating panel according to Figma design
 - creating panel according to description attached to the task (used Gulp, HMTL, SCSS, JavaScript, localStorage, RWD, WCAG)
-- button counts clicks and it's result is connected with local storage, so refreshing browser do not restart counting
+- button counts clicks (after fifth click button "reset" appears) and it's result is connected with local storage, so refreshing browser do not restart counting
 - clicking outside pop-up coses the panel
 
 TOOLS:
