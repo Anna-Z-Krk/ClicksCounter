@@ -1,15 +1,18 @@
 # GG_task
 
-Created according to description attached to the task (Gulp, HMTL, SCSS, JavaScript, localStorage, RWD, WCAG)
+View it here: https://anna-z-krk.github.io/GG_task/
 
--------------------------------------------
-01 This is the first version of the page: only one resolution (no RWD yet), created on Gulp's own configuration, unverified WCAG, counting button clicks does not yet have the function of remembering the number of clicks regardless of refreshing the page, there is also no possibility of resetting the number of clicks (temporarily after 5 clicks, the number of clicks is reset automatically). The first version still requires verification of all points from the task.
+AIM:
+- creating panel according to Figma design
+- creating panel according to description attached to the task (used Gulp, HMTL, SCSS, JavaScript, localStorage, RWD, WCAG)
+- button counts clicks and it's result is connected with local storage, so refreshing browser do not restart counting
+- clicking outside pop-up coses the panel
 
--------------------------------------------
-02 Changes in media targets (add breakpoints) and solves JavaScript button clicking - all works as it should be. Not solved the problem of resetting clicking count and refreshing the page (local storage). Checked with validator of W3C (Heading-level outline - it's set at was planned).
+TOOLS:
+- Visual Studio Code
+- GULP
+- Perfect Pixel plugin for Chrome
+- Lighthouse plugin for Chrome
+- HTML5, CSS (Sass), JS
 
--------------------------------------------
-03 Now local storage of browser saves clicks. You can refresh browser, and you will not lose amount of clicks. Button reset clean local storage and restart counting clicks.
-
--------------------------------------------
-The result link you can find here: https://anna-z-krk.github.io/GG_task/
+*coding by myself
