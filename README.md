@@ -1,6 +1,6 @@
 # GG_task
 
-View it here: https://anna-z-krk.github.io/GG_task/
+View it here:  https://anna-z-krk.github.io/ClicksCounter/
 
 AIM:
 - creating panel according to Figma design
