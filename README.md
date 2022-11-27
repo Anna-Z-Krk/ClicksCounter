@@ -1,8 +1,10 @@
-# GG_task
+# Clicks Counter
+## Created according to task description
 
 View it here:  https://anna-z-krk.github.io/ClicksCounter/
 
 AIM:
+- learning Gulp from scratch to make this task done
 - creating panel according to Figma design
 - creating panel according to description attached to the task (used Gulp, HMTL, SCSS, JavaScript, localStorage, RWD, WCAG)
 - button counts clicks and it's result is connected with local storage, so refreshing browser do not restart counting
@@ -17,3 +19,4 @@ TOOLS:
 - HTML5, CSS (Sass), JS
 
 *coding by myself
+** task by GG
