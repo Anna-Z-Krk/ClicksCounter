@@ -18,5 +18,7 @@ TOOLS:
 - Lighthouse plugin for Chrome
 - HTML5, CSS (Sass), JS
 
-* coding by myself/
-** task by GG/
+
+* coding by myself
+
+** task by GG
