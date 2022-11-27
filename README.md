@@ -19,6 +19,7 @@ TOOLS:
 - HTML5, CSS (Sass), JS
 
 
-* coding by myself
 
-** task by GG
+Coding by myself
+
+Task by GG
