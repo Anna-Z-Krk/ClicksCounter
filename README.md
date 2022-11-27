@@ -9,7 +9,7 @@ AIM:
 - creating panel according to description attached to the task (used Gulp, HMTL, SCSS, JavaScript, localStorage, RWD, WCAG)
 - button counts clicks and it's result is connected with local storage, so refreshing browser do not restart counting
 - after fifth click the button "reset" appears which can reset clicks also in local storage
-- clicking outside pop-up coses the panel
+- clicking outside pop-up closes the panel
 
 TOOLS:
 - Visual Studio Code
