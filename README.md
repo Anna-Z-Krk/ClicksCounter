@@ -1,6 +1,8 @@
 # Clicks Counter
 ## Created according to task description
 
+![Preview:](https://github.com/Anna-Z-Krk/ClicksCounter/blob/main/clicks_counter_prev.png)
+
 View it here:  https://anna-z-krk.github.io/ClicksCounter/
 
 AIM:
